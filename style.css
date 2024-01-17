@@ -1,0 +1,14 @@
+body{
+    background-color: grey;
+}
+h1{
+    color: brown;
+    background-color: rgb(241, 119, 119);
+}
+
+
+ul li a{
+    color: green;
+    background-color: antiquewhite;
+    font-weight: 800;
+}
